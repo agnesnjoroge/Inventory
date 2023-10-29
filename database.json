@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "name": "Biscuit",
+      "price": "68",
+      "type": "Round ",
+      "brand": "Manji",
+      "id": 1
+    },
+    {
+      "name": "Coffee",
+      "price": "045",
+      "type": "Roasted",
+      "brand": "choma",
+      "id": 2
+    },
+    {
+      "name": "Corn",
+      "price": "020",
+      "type": "White",
+      "brand": "Maize",
+      "id": 3
+    },
+    {
+      "name": "Nuts",
+      "price": "020",
+      "type": "Round",
+      "brand": "Groundnuts",
+      "id": 4
+    },
+    {
+      "name": "Ruler",
+      "price": "040",
+      "type": "Clear",
+      "brand": "Ruul",
+      "id": 5
+    }
+  ]
+}
